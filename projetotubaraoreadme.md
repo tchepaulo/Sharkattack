@@ -44,29 +44,29 @@ em andamento
 # CONCLUSÂO
 - O pais 10 países com mais mortes ppor ataque de tubarão:
 
-1	Australia	      271     5.1%
-2	Usa	              184     3.4%
-3	South Africa      104     1.9%
-4	Papua New Guinea   50     0.9%
-5	Mexico	           43     0.8%
-6	Philippines	       33     0.6%
-7	Brazil	           33     0.6%
-8	Reunion	           27     0.5%
-9	Cuba	           23     0.4%
-10  New Zealand	       23     0.4%
+- 1	Australia	      271     5.1%
+- 2	Usa	              184     3.4%
+- 3	South Africa      104     1.9%
+- 4	Papua New Guinea   50     0.9%
+- 5	Mexico	           43     0.8%
+- 6	Philippines	       33     0.6%
+- 7	Brazil	           33     0.6%
+- 8	Reunion	           27     0.5%
+- 9	Cuba	           23     0.4%
+- 10New Zealand	       23     0.4%
 
 - As 10 atividades que mais ocasionam ataques de tubarões:
 
-1	Natação	        322       6.0%
-2	Banhar	         74       1.3%
-3	Surfar        	 49       0.9%
-4	Pescar	         48       0.9%
-5	Caça Submarina	 41       0.7%
-6	Mergulhando	     37       0.7%
-7	Caiu no Mar	     25       0.5%   
-8	De pé	         16       0.3%
-9	Body Boarding    15       0.3%
-10	Wading           13       0.2%
+- 1	Natação	        322       6.0%
+- 2	Banhar	         74       1.3%
+- 3	Surfar        	 49       0.9%
+- 4	Pescar	         48       0.9%
+- 5	Caça Submarina	 41       0.7%
+- 6	Mergulhando	     37       0.7%
+- 7	Caiu no Mar	     25       0.5%   
+- 8	De pé	         16       0.3%
+- 9	Body Boarding    15       0.3%
+- 10Wading           13       0.2%
 
 - Os ataques fatais de tubarão representam 24%.
 
