@@ -24,8 +24,8 @@ em andamento
 
 - Python
 - Pandas
-- Regex
-- Merge
+- Excel
+
 
 
 # DESCRIÇÃO DO PROJETO
