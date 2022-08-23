@@ -7,6 +7,8 @@ Atividades e Paises com mais mortes por ataque de tubarões
 em andamento
 
 # OBJETIVO DO PROJETO
+Quais são os paises com mais ataques de tubarão?
+Quais são as atividades com maior risco ao ataque?
 Visualizar através dos dados da tabela attacks em quais paises os ataques de tubarões resultam em mais mortes e quais atividades estão mais sucetíveis aos ataques dos mesmos.
 Ver a proporção das mortes em relação aos ataques.
 
