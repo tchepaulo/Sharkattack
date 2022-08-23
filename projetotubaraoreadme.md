@@ -9,7 +9,6 @@ em andamento
 # OBJETIVO DO PROJETO
 Visualizar através dos dados da tabela attacks em quais paises os ataques de tubarões resultam em mais mortes e quais atividades estão mais sucetíveis aos ataques dos mesmos.
 Ver a proporção das mortes em relação aos ataques.
-Orientação para o calendário do próximo Campeonato Mundal de SURF/202-WSTR
 
 # METODOS
 Limpeza de dados duplicados.
@@ -25,7 +24,7 @@ Python
 Pandas
 Regex
 Merge
-Drop
+
 
 # DESCRIÇÃO DO PROJETO
 Através da tabela Attack(Global Shark Attack), fizemos algumas manipulações e limpezas para extrair somente os dados necessários.
