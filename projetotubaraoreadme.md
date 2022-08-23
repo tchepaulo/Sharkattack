@@ -9,6 +9,7 @@ em andamento
 # OBJETIVO DO PROJETO
 - Quais são os 10 paises com mais ataques de tubarão?
 - Quais são as 10 atividades com maior risco ao ataque?
+- Quais são os paises mais seguro para realizar competições nas praias.
 - Visualizar através dos dados da tabela attacks em quais paises os ataques de tubarões resultam em mais mortes e quais atividades estão mais    sucetíveis aos ataques dos mesmos.
 - Ver a proporção das mortes em relação aos ataques.
 
