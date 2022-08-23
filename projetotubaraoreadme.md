@@ -1,10 +1,10 @@
 # Sharkattack
  
 # NOME DO PROJETO
-Paises com mais mortes por ataque de tubarões
+Atividades e Paises com mais mortes por ataque de tubarões
 
 # STATUS DO PROJETO
-Finalizado
+em andamento
 
 # OBJETIVO DO PROJETO
 Visualizar através dos dados da tabela attacks em quais paises os ataques de tubarões resultam em mais mortes e quais atividades estão mais sucetíveis aos ataques dos mesmos.
